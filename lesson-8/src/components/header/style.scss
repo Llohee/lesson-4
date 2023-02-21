@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.header{
+    ul{
+    display: flex;
+    list-style: none;  
+    justify-content: center;  
+    gap: 12px;
+}
+}

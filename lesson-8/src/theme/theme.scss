@@ -1,0 +1,12 @@
+:root{
+    --bg-mode: rgba(255, 255, 255, 0.76);
+    --text-color: #000000;
+}
+.dark{
+    --bg-mode:rgba(165, 121, 40, 0.76);
+    --text-color:#2d9123;
+}
+.light{
+    --bg-mode:rgb(255, 195, 83);
+    --text-color:#ffffff;
+}
